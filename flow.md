@@ -177,4 +177,19 @@ Switched to branch 'develop'
 armjo@Armando-Laptop MINGW64 ~/OneDrive/Escritorio/gitflow (develop)
 $ touch .gitignore
 
+armjo@Armando-Laptop MINGW64 ~/OneDrive/Escritorio/gitflow (develop)
+$ git switch feature
+Switched to branch 'feature'
+
+armjo@Armando-Laptop MINGW64 ~/OneDrive/Escritorio/gitflow (feature)
+$ git merge develop
+Updating b095665..8966c12
+Fast-forward
+ .gitignore |   0
+ flow.md    | 180 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ prueba.js  |   7 +++
+ 3 files changed, 187 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 flow.md
+ create mode 100644 prueba.js
 
