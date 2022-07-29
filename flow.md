@@ -193,3 +193,30 @@ Fast-forward
  create mode 100644 flow.md
  create mode 100644 prueba.js
 
+---------------------------
+
+armjo@Armando-Laptop MINGW64 ~/OneDrive/Escritorio/gitflow (feature)
+$ git log
+commit 0b3746f205bc3da04eba7e9651976567cb72b197 (HEAD -> feature)
+Author: Armando Bermudez <armucode@gmail.com>
+Date:   Fri Jul 29 12:11:37 2022 -0500
+
+    Feature(FunArrayFeature) add function AB
+
+commit 8966c126facaad67843690b666e5a838836b81b6 (develop)
+Author: Armando Bermudez <armucode@gmail.com>
+Date:   Fri Jul 29 12:05:54 2022 -0500
+
+    Feature(prueba.js) add sumaArray AB
+
+commit b095665430815ceb8ff4002c13eaef51d8767ac9 (origin/main, release, main)
+Author: Armando Bermudez <armucode@gmail.com>
+Date:   Fri Jul 29 11:37:43 2022 -0500
+
+    feature(carpeta)add resta AB
+
+commit 56b336189152bb15c8bb14e9ec991150ed231081
+Author: Armando Bermudez <armucode@gmail.com>
+Date:   Fri Jul 29 11:33:12 2022 -0500
+
+    feature(function) add suma AB

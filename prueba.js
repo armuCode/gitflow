@@ -13,3 +13,9 @@ function sumaArrayFeature (array) {
   }
   return suma;
 }
+
+function route (req, res) {
+  console.log('route', req)
+}
+
+route('hola')
